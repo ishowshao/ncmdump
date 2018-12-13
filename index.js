@@ -1,3 +1,4 @@
+// 转换完成，未整理版，还没处理Music Tag信息
 console.time('1');
 const fs = require('fs');
 const aes = require('aes-js');
